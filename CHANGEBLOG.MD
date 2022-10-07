@@ -1,5 +1,16 @@
 # Hyperskill_Kotlin_NumericMatrixProcessor
 
+### Stage 3/6: Matrix by matrix multiplication
+
+For the most part I think I understand matrices, but I had another simple mistake prop up.
+I was comparing the row count of the first matrix to the column count of the second, instead of the column count of the first to the row count of the second.
+So I was getting a very unhelpful error from the unit tests "Could not evaluate answer"
+I don't think it's cheating to read the supplied unit tests. Doing so let me see it was expecting an answer, and showed me my error.
+
+### Stage 2/6: Multiplication by number
+
+This was simple. Multiply each element by a constant.
+
 ### Stage 1/6: Addition
 
 Pretty simple stuff. For the last few projects I'd been putting everything in a singleton and building from there. I don't know that I'll continue to do this.
