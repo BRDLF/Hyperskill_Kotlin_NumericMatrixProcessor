@@ -1,5 +1,14 @@
 # Hyperskill_Kotlin_NumericMatrixProcessor
 
+### Stage 5/6: Determined!
+
+Time and time again I learn the valuable lesson of KISS.
+I wanted to solve with memoization. For some reason decided to use a List instead of a Map. Spent an hour breaking my brain over how to math out finding the spot in the list based on what sub matrix of what sub matrix I was using, passing unneeded variables etc.
+Then I thought maybe I should use Gauss transformation since that's more efficient. But I'm not familiar with that.
+Eventually I just used a dang Map. Problem solved.
+
+It's been a while since I did anything with matrices... Gosh, I'm rusty. This has been a nice refresher, if a frustrating one.
+
 ### Stage 4/6: Transpose
 
 I initially sat down to just change the organization of the code, didn't mean to finish this stage today. That said, this wasn't terribly hard to implement after the fact.
