@@ -1,5 +1,11 @@
 # Hyperskill_Kotlin_NumericMatrixProcessor
 
+### Stage 4/6: Transpose
+
+I initially sat down to just change the organization of the code, didn't mean to finish this stage today. That said, this wasn't terribly hard to implement after the fact.
+I restructured the matrix by matrix multiplication function so that it uses lambdas instead of nested for loops. And I made a function to print a passed matrix instead of putting a print loop in every. single. function.
+Overall, thins are cleaner and nicer. Though the lambdas were hard for me to parse at first. I think I've got my head around it.
+
 ### Stage 3/6: Matrix by matrix multiplication
 
 For the most part I think I understand matrices, but I had another simple mistake prop up.

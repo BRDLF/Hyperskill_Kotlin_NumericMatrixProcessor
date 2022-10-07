@@ -1,8 +1,13 @@
 # Hyperskill_Kotlin_NumericMatrixProcessor
 
+### Stage 4/6: Transpose
+
+Added option to transpose matrix along either diagonal or straight line. \
+Now functions are in a singleton and matrices are created then sent to a print function. It's a lot cleaner.
+
 ### Stage 3/6: Matrix by matrix multiplication
 
-There is now a menu which will prompt you for different operations.
+There is now a menu which will prompt you for different operations. \
 You can now multiply two matrices.
 
 ### Stage 2/6: Multiplication by number
