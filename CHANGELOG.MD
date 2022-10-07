@@ -1,5 +1,9 @@
 # Hyperskill_Kotlin_NumericMatrixProcessor
 
+### Stage 5/6: Determined!
+
+Added option to find determinant of square matrix.
+
 ### Stage 4/6: Transpose
 
 Added option to transpose matrix along either diagonal or straight line. \
