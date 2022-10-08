@@ -1,5 +1,9 @@
 # Hyperskill_Kotlin_NumericMatrixProcessor
 
+### Stage 6/6: Inverse matrix
+
+Added option to find inverse matrix.
+
 ### Stage 5/6: Determined!
 
 Added option to find determinant of square matrix.

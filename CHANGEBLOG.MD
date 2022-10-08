@@ -1,5 +1,13 @@
 # Hyperskill_Kotlin_NumericMatrixProcessor
 
+### Stage 6/6: Inverse matrix
+
+This puzzled me for a moment, because of the way I was going about finding the determinant. I also misunderstood what a cofactor was. 
+There is no longer a nested "recursive determinant" function, instead the determinant memo is global. I have some concern that could cause memory issues. But that's out of scope for this assignment.
+All in all, this project used a lot more maths than I was used to. It was a headache, but a fun headache. \
+
+I'm glad to have done it but even more glad to be done with it.
+
 ### Stage 5/6: Determined!
 
 Time and time again I learn the valuable lesson of KISS.
